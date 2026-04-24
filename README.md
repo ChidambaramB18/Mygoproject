@@ -1,0 +1,2 @@
+# Mygoproject
+Golang journey
