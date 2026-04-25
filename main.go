@@ -1,5 +1,7 @@
-package mygoproject
+package main
 
+import "fmt"
+ 
 func main() {
-	println("Sample")
+	fmt.Println("Sample")
 }
